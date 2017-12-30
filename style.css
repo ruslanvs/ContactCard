@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: helvetica;
+}
+
+form {
+    margin: 10px 0px 0px 30px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+label {
+    margin: 10px 0px 0px 0px;
+    display: inline-block;
+    width: 90px;
+}
+
+form p {
+    margin: 30px 0px 0px 0px;
+
+}
+textarea {
+    display: block;
+    width: 220px;
+    height: 50px;
+}
+
+button {
+    margin: 10px 0px 0px 0px;
+    padding: 2px 5px 3px 5px;
+    font-size: 10px;
+    border-radius: 4px;
+}
+
+#rightPane {
+    margin: 10px 0px 0px 70px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.card {
+    margin-bottom: 10px;
+    height: 140px;
+    background-color: yellow;
+}
+
+.cardFront {
+    width: 200px;
+    height: 100px;
+    padding: 20px;
+    background-color: rgb(248, 248, 248);
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.cardFront p {
+    margin-top: 20px;
+    font-size: 22px;
+}
+
+.cardFront a {
+    display: block;
+    margin-top: 20px;
+    font-size: 12px;
+    text-align: center;
+}
+
+.cardBack {
+    display: none;
+    width: 200px;
+    height: 100px;
+    padding: 20px;
+    background-color: rgb(226, 226, 226);
+    border: 1px solid black;
+    border-radius: 5px;
+}
