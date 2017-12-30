@@ -1,0 +1,1 @@
+jQuery dinamic content handling educational assignment at Coding Dojo.
